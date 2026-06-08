@@ -3,7 +3,7 @@ import type { Acao } from '../types'
 import { useUser } from '../context/UserContext'
 
 const API_URL =
-  'https://script.google.com/macros/s/AKfycbyUDv1i6rjJzIxY8gtF6c5d4yztSx5VYRNHRwy54472LuOTKIdL5QNkJQb2WlSzYjk/exec'
+  'https://script.google.com/macros/s/AKfycbyXIQL_q3U0kNTG4RiyYh-tsofJjypl6Tjs9CuxT9k5ND_o9wsQIHChoA0wjuwIBArs/exec'
 
 export interface EditPayload {
   ID: string
